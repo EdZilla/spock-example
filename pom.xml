@@ -14,7 +14,7 @@
 
   <modules>
     <module>module-groovy-spock-tests</module>
-<!--     <module>module-java-rest</module> -->
+    <module>module-java-rest</module>
     <module>my-java-app</module>
   </modules>
   
